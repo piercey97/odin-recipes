@@ -1,0 +1,21 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+}
+
+h4{
+    text-decoration: underline;
+    font-size: larger;
+}
+
+li{
+    line-height: 140%;
+}
+
+img{
+    width: 350px;
+}
